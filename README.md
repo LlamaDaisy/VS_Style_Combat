@@ -1,7 +1,9 @@
 # Vampire Survivors Style Combat
 
 # Introduction
-This Vampire Survivors-like is a 2D Combat Mini Game that focuses on player progression and dynamic combat mechanics. The core focus of this proof of concept is the modular augment system that allows players to upgrade their abilities as they advance through waves of enemies. 
+This Vampire Survivors-like is a 2D Combat Mini Game that focuses on player progression and dynamic combat mechanics. The core focus of this proof of concept is the modular augment system that allows players to upgrade their abilities as they advance through waves of enemies.
+
+![ezgif com-optimize](https://github.com/user-attachments/assets/40e9aa3a-20a4-45b7-8137-e591119ec827)
 
 # Main Features
 - **Player Progression & Levelling System**
@@ -16,4 +18,9 @@ This Vampire Survivors-like is a 2D Combat Mini Game that focuses on player prog
 
 This project was created as an early prototype for a larger demo that will feature multiple mini-game style elements. This Vampire Survivors-like combat mini-game was specifically designed to be flexible and modular, enabling easy testing of different augments and crafting engaging, dynamic gameplay.
 
+**Watch a gameplay video here**
+
+[![YT Video of Gameplay](https://img.youtube.com/vi/oYRa3RxCzcY/0.jpg)](https://www.youtube.com/watch?v=oYRa3RxCzcY)
+
 # [Documentation](https://docs.google.com/document/d/1wp5byKj90SKrG8_BhgHMYuFO_uBuvTmnu_3Y6dbmXUM/edit?usp=sharing)
+Documentation going over how to add a new augment to the game.
